@@ -1,6 +1,7 @@
 import pygame
 from script_solution import solution, is_valid
 import time
+#shirt ke liye kuch bhi
 
 pygame.font.init()
 
